@@ -4,7 +4,7 @@ An ETL (Extract, Transform, Load) project aimed at analyzing customer purchase b
 
 ## **Overview**
 
-The **AppleDataAnalysisETL** project implements three workflows to analyze Apple product purchases. Each workflow focuses on a unique aspect of customer behavior, helping Apple or its stakeholders understand product purchase relationships.
+The **AppleDataAnalysisETL** project implements three workflows to analyze Apple product purchases. Each workflow focuses on a unique aspect of customer behavior.
 
 ## **ETL Workflows**
 
